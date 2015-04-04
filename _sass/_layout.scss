@@ -25,9 +25,18 @@
 		color: $background-color;
     }
 }
+.site-actions{
+float: right;
+}
+
+.social{
+    float:right;
+	padding-left:25px;
+	padding-top: 7px;
+}
 
 .site-nav {
-    float: right;
+    float: left;
     line-height: 56px;
 
     .menu-icon {
