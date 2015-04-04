@@ -21,7 +21,9 @@
         {% endfor %}
       </div>
     </nav>
-  <a class="social" href="https://twitter.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"><img src="{{ site.baseurl }}/assets/tw.png" width="34px" height="34px" /></a>
+	{% if page.type == "post" %}
+  <a class="social" href="https://twitter.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&text={{page.title}}"><img src="{{ site.baseurl }}/assets/tw.png" width="34px" height="34px" /></a>
+  {% endif %}
   </div>
   </div>
 </header>

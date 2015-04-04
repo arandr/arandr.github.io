@@ -1,6 +1,7 @@
 ---
 title: The Word Exchange (2014) - Thoughts In Three Parts
 layout: default
+type: post
 ---
 
 ##Words##

@@ -1,6 +1,7 @@
 ---
 title: How I Learned To Stop Worrying And Debug Other People's Code
 layout: default
+type: post
 ---
 I recently came across [this Reddit posting](http://www.reddit.com/r/cscareerquestions/comments/2ryckp/been_smart_my_whole_life_but_now_i_feel_like_im_a/) by a poor soul who just fell headfirst into enterprise code. 
 

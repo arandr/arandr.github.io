@@ -1,6 +1,7 @@
 ---
 title: What Is "Production" Code?
 layout: default
+type: post
 ---
 
 Inspired (loosely) by [this post](http://tomassetti.me/resurrect-a-c-codebase-and-create-a-proper-open-source-project-out-of-it/).
