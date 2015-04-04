@@ -9,6 +9,11 @@
 
     <div class="page-content">
       <div class="wrapper">
+	  		{% if page.type == "post" %}
+	<div class="title"> 
+	<h2>{{page.title}}</h2>
+	</div>
+	{% endif %}
         {{ content }}
       </div>
     </div>

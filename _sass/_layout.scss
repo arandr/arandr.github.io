@@ -177,6 +177,11 @@ float: right;
     padding: $spacing-unit 0;
 }
 
+.page-content .title{
+    color: $brand-color;
+	font-variant:small-caps;
+}
+
 .page-heading {
     font-size: 20px;
 }
